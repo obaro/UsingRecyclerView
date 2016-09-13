@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UsingRecyclerView</string>
+
+    <string name="linear_layout">LinearLayoutManager</string>
+    <string name="grid_layout">GridLayoutManager</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+
+    <string name="lorem">Lorem ipsum dolo blah blah blah</string>
+    <string name="ogbo">Has an extreme fascination with programming (fiddling) with computers of all types, and all platforms. Works with Android Authority. Suspected of being Donald Knuth!</string>
+    <string name="parker">Extremely smart introvert. Still lives with his aunt. Photographer with the Daily Bugle. Suspected of being Spiderman</string>
+    <string name="kent">Very quiet bespectacled reporter at the DailyPlanet. Clumsy fellow, but well built and looks strikingly familiar. Wonder which celebrity he looks like without his glasses. Suspected of being the Superman</string>
+    <string name="wayne">Incredibly smart billionaire industrialist and notorios playboy. Also very reclusive. Almost certainly the Batman. (Batman\'s gadgets must cost a fortune)</string>
+    <string name="queen">Former playboy and billionaire. Spent 5 years lost at sea, and returned a new man. His return coincided with the arrival of multiple different vigilantes, one after the other. Suspected of being The Hood, then The Arrow, and now Green Arrow.</string>
+    <string name="obama">44th President of the USA. Recipient of the Nobel peace prize (although no one is quite certain what exactly for). Suspected of being Black</string>
+
+    <string name="ogbo_role">Tutor</string>
+    <string name="parker_role">Photographer</string>
+    <string name="kent_role">Reporter</string>
+    <string name="wayne_role">Billionaire</string>
+    <string name="queen_role">Billionaire</string>
+    <string name="obama_role">President of the USA</string>
+</resources>
